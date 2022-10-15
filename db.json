@@ -1,0 +1,212 @@
+{
+    "entrenadores" : [
+        {
+            "nombre": "Gofresito",
+            "pokemons" : [
+                {
+                    "Breloom": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Gengar": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Heatran": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Spiritomb": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Donphan": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ]
+                }  
+            ]
+        },
+        {
+            "nombre": "Lufer Totus",
+            "pokemons" : [
+                {
+                    "Milotic": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Mesprit": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Hariyama": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Aerodactyl": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Starmie": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ]
+                }  
+            ]
+        },
+        {
+            "nombre": "Revitz",
+            "pokemons" : [
+                {
+                    "Shaymin": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Inferneape": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Mamoswine": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Hippowdown": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Empoleon": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ]
+                }  
+            ]  
+        },
+        {
+            "nombre": "Vibras Vic",
+            "pokemons" : [
+                {
+                    "Blissey": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Honchkrow": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Swampert": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Nidoqueen": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ],
+                    "Smeargle": [
+                        {
+                            "naturaleza": "",
+                            "ataque1": "",
+                            "ataque2": "",
+                            "ataque3": "",
+                            "ataque4": ""
+                        }
+                    ]
+                }  
+            ]
+        }
+    ]
+}
