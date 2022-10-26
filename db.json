@@ -6,47 +6,47 @@
                 {
                     "Breloom": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Jolly",
+                            "ataque1": "Rock Smash",
+                            "ataque2": "Grass Knot",
+                            "ataque3": "Substitute",
+                            "ataque4": "Rock Slide"
                         }
                     ],
                     "Gengar": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Timid",
+                            "ataque1": "Trick Room",
+                            "ataque2": "Swagger",
+                            "ataque3": "Poison Jab",
+                            "ataque4": "Dark Pulse"
                         }
                     ],
                     "Heatran": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Modest",
+                            "ataque1": "Stealth Rock",
+                            "ataque2": "Rock Climb",
+                            "ataque3": "Bulldoze",
+                            "ataque4": "Flash Cannon"
                         }
                     ],
                     "Spiritomb": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Calm",
+                            "ataque1": "Shadow Ball",
+                            "ataque2": "Curse",
+                            "ataque3": "Double Team",
+                            "ataque4": "Torment"
                         }
                     ],
                     "Donphan": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Adamant",
+                            "ataque1": "Knock Off",
+                            "ataque2": "Rollout",
+                            "ataque3": "Giga Impact",
+                            "ataque4": "Rock Tomb"
                         }
                     ]
                 }  
@@ -58,47 +58,47 @@
                 {
                     "Milotic": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Bold",
+                            "ataque1": "Aqua Tail",
+                            "ataque2": "Coil",
+                            "ataque3": "Safeguard",
+                            "ataque4": "Dragon Tail"
                         }
                     ],
                     "Mesprit": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Timid",
+                            "ataque1": "Copycat",
+                            "ataque2": "Shock Wave",
+                            "ataque3": "Energy Ball",
+                            "ataque4": "Charm"
                         }
                     ],
                     "Hariyama": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Impish",
+                            "ataque1": "Focus Punch",
+                            "ataque2": "Endure",
+                            "ataque3": "Vital Throw",
+                            "ataque4": "Rest"
                         }
                     ],
                     "Aerodactyl": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Adamant",
+                            "ataque1": "Stone Edge",
+                            "ataque2": "Agility",
+                            "ataque3": "Aerial Ace",
+                            "ataque4": "Rock Polish"
                         }
                     ],
                     "Starmie": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Bold",
+                            "ataque1": "Surf",
+                            "ataque2": "Tackle",
+                            "ataque3": "Psychic",
+                            "ataque4": "Ice Beam"
                         }
                     ]
                 }  
@@ -110,47 +110,47 @@
                 {
                     "Shaymin": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Timid",
+                            "ataque1": "Sweet Scent",
+                            "ataque2": "Aromatherapy",
+                            "ataque3": "Energy Ball",
+                            "ataque4": "Healing Wish"
                         }
                     ],
-                    "Inferneape": [
+                    "Infernape": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Naive",
+                            "ataque1": "Brick Break",
+                            "ataque2": "Fire Spin",
+                            "ataque3": "Stone Edge",
+                            "ataque4": "Flare Blitz"
                         }
                     ],
                     "Mamoswine": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Naughty",
+                            "ataque1": "Earthquake",
+                            "ataque2": "Amnesia",
+                            "ataque3": "Rock Tomb",
+                            "ataque4": "Attract"
                         }
                     ],
                     "Hippowdown": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Adamant",
+                            "ataque1": "Sleep Talk",
+                            "ataque2": "Roar",
+                            "ataque3": "Fissure",
+                            "ataque4": "Crunch"
                         }
                     ],
                     "Empoleon": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Calm",
+                            "ataque1": "Hydro Pump",
+                            "ataque2": "Ice Beam",
+                            "ataque3": "Mist",
+                            "ataque4": "Fury Attack"
                         }
                     ]
                 }  
@@ -162,47 +162,47 @@
                 {
                     "Blissey": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Bold",
+                            "ataque1": "Heal Pulse",
+                            "ataque2": "Take Down",
+                            "ataque3": "Focus Blast",
+                            "ataque4": "Facade"
                         }
                     ],
                     "Honchkrow": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Jolly",
+                            "ataque1": "Foul Play",
+                            "ataque2": "Wing Attack",
+                            "ataque3": "Attract",
+                            "ataque4": "Giga Impact"
                         }
                     ],
                     "Swampert": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Impish",
+                            "ataque1": "Amnesia",
+                            "ataque2": "Hydro Pump",
+                            "ataque3": "Avalanche",
+                            "ataque4": "Waterfall"
                         }
                     ],
                     "Nidoqueen": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Adamant",
+                            "ataque1": "Toxic",
+                            "ataque2": "Hyper Beam",
+                            "ataque3": "Sludge Bomb",
+                            "ataque4": "Tail Whip"
                         }
                     ],
                     "Smeargle": [
                         {
-                            "naturaleza": "",
-                            "ataque1": "",
-                            "ataque2": "",
-                            "ataque3": "",
-                            "ataque4": ""
+                            "naturaleza": "Hasty",
+                            "ataque1": "Sketch",
+                            "ataque2": "Sketch",
+                            "ataque3": "Sketch",
+                            "ataque4": "Sketch"
                         }
                     ]
                 }  
